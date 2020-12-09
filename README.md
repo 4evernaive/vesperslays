@@ -23,5 +23,5 @@ const aivesper = {
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AIVesper&show_icons=true&theme=react&hide_title=true)
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIVesper&theme=react&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AIVesper&show_icons=true&theme=nord&hide_title=true)
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIVesper&theme=nord&layout=compact)

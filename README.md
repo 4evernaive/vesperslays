@@ -10,8 +10,11 @@
 ```javascript
 const aivesper = {
   pronouns: "ze" | "zir",
-  code: [C++, HTML, CSS, Python, Java],
-  challenge: "To be updated."
+  code: [Python, Java, HTML, CSS],
+  want_to_learn: [Swift, Dart],
+  current_focus: "Programming using Java or Python",
+  challenge: "To be updated.",
+  motto: "艱險我奮進，困乏我多情。"
 }
 ```
 

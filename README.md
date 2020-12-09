@@ -18,7 +18,7 @@ const aivesper = {
 }
 ```
 
-<img src="https://thumbs.gfycat.com/EachWellinformedAidi-small.gif" width="60"> <em>I create binary executables, but <b>I don't fall into a world of binary opposites.</b> :)</em>
+<img src="https://cdn.lowgif.com/full/70e39585bb0f392f-realistic-pokeball-physics-pokemon-go-on-scratch.gif" width="60"> <em>I create binary executables, but <b>I don't fall into a world of binary opposites.</b> :)</em>
 
 ---
 

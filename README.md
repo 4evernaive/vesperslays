@@ -10,6 +10,7 @@
 ```javascript
 const aivesper = {
   pronouns: "ze" | "zir",
+  political_standpoint: "Left-libertarianism",
   code: [Python, Java, HTML, CSS],
   want_to_learn: [Swift, Dart],
   current_focus: "Contemplating whether to apply for graduate school.",
@@ -18,7 +19,7 @@ const aivesper = {
 }
 ```
 
-<img src="https://cdn.lowgif.com/full/70e39585bb0f392f-realistic-pokeball-physics-pokemon-go-on-scratch.gif" width="60"> <em>I create binary executables, but <b>I don't fall into a world of binary opposites.</b> :)</em>
+<img src="https://cdn.lowgif.com/full/70e39585bb0f392f-realistic-pokeball-physics-pokemon-go-on-scratch.gif" width="60"> <em><b>I don't want to get stuck in a world of dichotomies.  :shit:</b> So if you have the ability to <b>think independently</b>, I'd love to say hello to you. :blue_heart:</em>
 
 ---
 

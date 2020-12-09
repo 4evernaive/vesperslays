@@ -12,8 +12,8 @@ const aivesper = {
   pronouns: "ze" | "zir",
   code: [Python, Java, HTML, CSS],
   want_to_learn: [Swift, Dart],
-  current_focus: "Programming using Java or Python",
-  challenge: "Contemplating whether to apply for graduate school.",
+  current_focus: "Contemplating whether to apply for graduate school.",
+  challenge: "To be updated.",
   motto: "Vos Parate Ut Serviatis."
 }
 ```

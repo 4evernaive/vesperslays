@@ -13,7 +13,7 @@ const aivesper = {
   code: [Python, Java, HTML, CSS],
   want_to_learn: [Swift, Dart],
   current_focus: "Programming using Java or Python",
-  challenge: "To be updated.",
+  challenge: "Contemplating whether to apply for graduate school.",
   motto: "Vos Parate Ut Serviatis."
 }
 ```

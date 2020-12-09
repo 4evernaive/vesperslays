@@ -8,10 +8,10 @@
 ### A little more about me...  
 
 ```javascript
-const thai = {
+const aivesper = {
   pronouns: "ze" | "zir",
   code: [C++, HTML, CSS, Python, Java],
- challenge: "To be updated."
+  challenge: "To be updated."
 }
 ```
 

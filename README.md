@@ -4,7 +4,7 @@
 <p><em><s>Codebreaker</s> in the WORLD</p>
 
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/AIVesper?label=follow&style=social)](https://github.com/AIVesper)
+[![GitHub Vesper](https://img.shields.io/github/followers/AIVesper?label=follow&style=social)](https://github.com/AIVesper)
 
 
 ### A little more about me...  
@@ -21,7 +21,7 @@ const vesper = {
 }
 ```
 
-<img src="https://cdn.lowgif.com/full/70e39585bb0f392f-realistic-pokeball-physics-pokemon-go-on-scratch.gif" width="20"> <em><b>I don't want to get stuck in a world of dichotomies.  :shit:</b> So if you have the ability to <b>think independently</b>, I'd love to say hello to you. :blue_heart:</em>
+<img src="https://cdn.lowgif.com/full/70e39585bb0f392f-realistic-pokeball-physics-pokemon-go-on-scratch.gif" width="40"> <em><b>I don't want to get stuck in a world of dichotomies.  :shit:</b> So if you have the ability to <b>think independently</b>, I'd love to say hello to you. :blue_heart:</em>
 
 ---
 

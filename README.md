@@ -1,5 +1,5 @@
 <h2> Hi, I'm Vesper (a.k.a. KAKA)! <img src="https://i.imgur.com/9U335RV.gif" width="30"></h2>
-<img align='right' src="./Red_1.png" width="230">
+<img align='right' src="https://pa1.narvii.com/6589/95b7b0c1eabc92797ef1f2a07c019fcf3823dd19_00.gif" width="230">
 <p><em>Student at <a href="https://www.ntut.edu.tw/">National Taipei University of Technology</a></p>
 <p><em><s>Codebreaker in the Real World</s></p>
 <p><em><s>Master of Pokémon World</s></p>

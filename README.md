@@ -1,4 +1,4 @@
-<h2> Hi, I'm Vesper (a.k.a. KAKA)! <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2F0800346.weebly.com%2F&psig=AOvVaw3xtBW7mw2snrJ-nHXxCHTM&ust=1607650660473000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICRnsmjwu0CFQAAAAAdAAAAABAJ" width="50"></h2>
+<h2> Hi, I'm Vesper (a.k.a. KAKA)! <img src="https://0800346.weebly.com/uploads/4/6/6/5/46652671/6952154_orig.gif" width="50"></h2>
 <img align='right' src="./Red_1.png" width="230">
 <p><em>Student at <a href="https://www.ntut.edu.tw/">National Taipei University of Technology</a></p>
 <p><em><s>Codebreaker in the Real World</s></p>

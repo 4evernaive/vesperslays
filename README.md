@@ -4,6 +4,7 @@
 <p><em><s>Codebreaker</s></p>
 <p><em><s>Pokémon Master</s></p>
 <p><em><s>Non-Top 10 Outstanding Young Persons in Greater Bay Area</s></p>
+
 [![GitHub Vesper](https://img.shields.io/github/followers/AIVesper?label=follow&style=social)](https://github.com/AIVesper)
 
 

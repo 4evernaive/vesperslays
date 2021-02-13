@@ -26,5 +26,5 @@ const vesper = {
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=NSphRo&show_icons=true&theme=nord&hide_title=true&bg_color=161c23&icon_color=6e93b5)
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NSphRo&theme=nord&layout=compact&bg_color=161c23&icon_color=6e93b5)
+![Github stats](https://github-readme-stats.vercel.app/api?username=vesperslays&show_icons=true&theme=nord&hide_title=true&bg_color=161c23&icon_color=6e93b5)
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vesperslays&theme=nord&layout=compact&bg_color=161c23&icon_color=6e93b5)

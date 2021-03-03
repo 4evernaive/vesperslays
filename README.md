@@ -1,5 +1,5 @@
-<h2> Hi, I'm Vesper (a.k.a. KAKA)! <img src="https://0800346.weebly.com/uploads/4/6/6/5/46652671/6952154_orig.gif" width="30"></h2>
-<img align='right' src="https://thumbs.gfycat.com/FickleTerribleCockroach-max-1mb.gif" width="230">
+<h2> Hi, I'm Vesper (a.k.a. KAKA)! <img src="http://pa1.narvii.com/6234/4a6bce39b258c87b9462f7d23a34cff5669c624e_00.gif" width="30"></h2>
+<img align='right' src="https://i.gifer.com/origin/fd/fdbd58bafe57630d9f65f1b57f48e46a_w200.gif" width="230">
 <p><em>Student at <a href="https://www.ntut.edu.tw/">National Taipei University of Technology</a></p>
 <p><em><s>Codebreaker</s></p>
 <p><em><s>Pokémon Master</s></p>

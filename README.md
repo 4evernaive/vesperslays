@@ -16,9 +16,8 @@ const vesper = {
   political_standpoint: "Left-libertarianism",
   code: [Python, Java, HTML, CSS],
   want_to_learn: [Swift, Dart],
-  current_focus: "Contemplating whether to apply for graduate school.",
-  challenge: "To be updated.",
-  motto: "Vos Parate Ut Serviatis."
+  current_focus: "IELTS test.",
+  motto: "Per Aspera Ad Astra."
 }
 ```
 

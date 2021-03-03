@@ -22,7 +22,7 @@ const vesper = {
 }
 ```
 
-<img src="https://cdn.lowgif.com/full/70e39585bb0f392f-realistic-pokeball-physics-pokemon-go-on-scratch.gif" width="40"> <em><b>I don't want to get stuck in a world of dichotomies.  :shit:</b> So if you have the ability to <b>think independently</b>, I'd love to say hello to you. :blue_heart:</em>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/862866169560071317/D7BE4FA97EBE77C0A7369C9F8FD02551BF7BE257/" width="40"> <em><b>I don't want to get stuck in a world of dichotomies.  :shit:</b> So if you have the ability to <b>think independently</b>, I'd love to say hello to you. :blue_heart:</em>
 
 ---
 

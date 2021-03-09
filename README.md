@@ -3,7 +3,7 @@
 <p><em>Student at <a href="https://www.ntut.edu.tw/">National Taipei University of Technology</a></p>
 <p><em><s>Codebreaker</s></p>
 <p><em><s>Pokémon Master</s></p>
-<p><em><s>Non-Top 10 Outstanding Young Persons in Greater Bay Area</s></p>
+<p><em><s>Non-Top Ten Outstanding Young Persons of Greater Bay Area</s></p>
 
 [![GitHub Vesper](https://img.shields.io/github/followers/4evernaive?label=follow&style=social)](https://github.com/4evernaive)
 

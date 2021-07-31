@@ -13,7 +13,6 @@
 ```javascript
 const vesper = {
   pronouns: "ze" | "zir",
-  political_standpoint: "Left-libertarianism",
   code: [Python, Java, HTML, CSS],
   want_to_learn: [Swift, Dart],
   current_focus: "IELTS test.",

@@ -16,9 +16,3 @@ const vesper = {
   motto: "Per Aspera Ad Astra."
 }
 ```
-
-
----
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=fvrnaive&show_icons=true&theme=nord&hide_title=true&bg_color=161c23&icon_color=6e93b5)
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fvrnaive&theme=nord&layout=compact&bg_color=161c23&icon_color=6e93b5)

@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vesper (@4evernaive) ! <img src="http://pa1.narvii.com/6234/4a6bce39b258c87b9462f7d23a34cff5669c624e_00.gif" width="30"></h2>
 <img align='right' src="https://i.gifer.com/origin/fd/fdbd58bafe57630d9f65f1b57f48e46a_w200.gif" width="230">
-<p><em>Student at <a href="https://www.ntut.edu.tw/">HKBU</a></p>
+<p><em>Student at <a href="https://www.hkbu.edu.hk/">HKBU</a></p>
 <p><em><s>Codebreaker</s></p>
 <p><em><s>Pokémon Master</s></p>
 <p><em><s>Non-Top Ten Outstanding Young Persons of Greater Bay Area</s></p>
